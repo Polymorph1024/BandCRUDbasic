@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        DbFunctions dbFunctions = new DbFunctions();
+        dbFunctions.connectToDb("band_db", "postgres", "admin420");
     }
 }
