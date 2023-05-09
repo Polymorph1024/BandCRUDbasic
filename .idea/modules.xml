@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BandCRUD.iml" filepath="$PROJECT_DIR$/BandCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandCRUDbasic.iml" filepath="$PROJECT_DIR$/BandCRUDbasic.iml" />
     </modules>
   </component>
 </project>
